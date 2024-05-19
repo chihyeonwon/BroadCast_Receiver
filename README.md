@@ -55,3 +55,26 @@ TV 방송도 불특정 다수에게 방송을 송출하고, 몇몇 사람들은 
 ```
 또한 앱에서 브로드캐스트를 발생할 수도 있고, 다른 앱이 이를 수신받게 할 수도 있다. 다방면으로 활용가능한 컴포넌트이다.
 ```
+
+## 브로드 캐스터 리시버 생성
+![image](https://github.com/chihyeonwon/BroadCast_Receiver/assets/58906858/6f3b6bc9-b9fe-42d9-bce4-335aa725ecda)
+
+## 배터리 상태 제어
+![image](https://github.com/chihyeonwon/BroadCast_Receiver/assets/58906858/a55c66b9-81fd-42b5-b700-91e3fb8603a3)
+```
+충전량 charge level, 충전기, 배터리 상태를 조정한다.
+```
+![image](https://github.com/chihyeonwon/BroadCast_Receiver/assets/58906858/4bfcf3b8-005a-4f58-9309-675068a2fb63)
+
+#### 배터리를 80%으로 변경
+![image](https://github.com/chihyeonwon/BroadCast_Receiver/assets/58906858/4008e270-5280-4c81-a84b-e9efd921e1e4)
+
+![image](https://github.com/chihyeonwon/BroadCast_Receiver/assets/58906858/b083e9e3-a30a-4eb2-b130-2f4a297d3898)
+```
+배터리의 상태를 감지하여 보여줍니다.
+```
+
+#### 배터리의 상태를 charging 에서 not charging으로 변경
+![image](https://github.com/chihyeonwon/BroadCast_Receiver/assets/58906858/d3683879-1fe5-4242-847f-b31f61fe0a53)
+![image](https://github.com/chihyeonwon/BroadCast_Receiver/assets/58906858/fbf5c4ec-d78e-43d1-9e53-e327e0612aa9)
+
